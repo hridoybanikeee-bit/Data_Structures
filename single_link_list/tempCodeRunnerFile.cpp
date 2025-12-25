@@ -1,0 +1,2 @@
+
+            trav = trav->next;
